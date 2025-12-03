@@ -77,8 +77,4 @@ while parar == False:
         jogadas += 1
         rodada = "X"
 
-    
-
 print("Fim do jogo. Obrigado por jogar!")
-
-
