@@ -1,3 +1,5 @@
+# DUPLA: GABRIELE MARIA FREIBERGER E BEATRICE FISCHER.
+
 import os
 
 # Função para limpar a tela
